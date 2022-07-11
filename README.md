@@ -30,4 +30,4 @@ class X0AM:
         >>> 𝕏𝟘𝔸𝕄𝕀𝔽𝕀𝔼𝔻#9999
 me = X0AM()
 ```
-[![X0AMS GitHub stats](https://github-readme-stats.vercel.app/api?username=X0AM)](https://github.com/X0AM/github-readme-stats)
+[![X0AMS GitHub stats](https://github-readme-stats.vercel.app/api?username=X0AM&theme=gruvbox)](https://github.com/X0AM/github-readme-stats)
