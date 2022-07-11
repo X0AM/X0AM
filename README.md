@@ -1,4 +1,4 @@
-```
+```python
 import requests
 import json
 class X0AM:
